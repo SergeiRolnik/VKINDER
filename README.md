@@ -6,7 +6,7 @@ Details:
 
     • You can control the bot by entering appropriate text commands or screen buttons
     • The bot lets you add selected partners to favorites and view their information later
-    • To start the bot go to ……... and enter any message
+    • To start the bot go to https://vk.com/club213011151 and enter any message
 
 Before using the application:
 
@@ -19,4 +19,5 @@ https://dev.vk.com/api/access-token/implicit-flow-user
 
 The database diagram is provided below:
 
+![image](https://user-images.githubusercontent.com/97103181/168756902-740bfacf-b69e-4d3f-895d-88d2a737990f.png)
 
